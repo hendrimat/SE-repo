@@ -1,4 +1,4 @@
-Konflikt on huvide, vajaduste või väärtushinnangute kokkupõrge.
+Konflikt on huvide, vajaduste või väärtushinnangute kokkupõrge inimeste vahel.
 
 Konflikt võib olla:
 
