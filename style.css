@@ -1,0 +1,60 @@
+body {
+    background-image: url('https://images.pond5.com/Fabstract-white-background-rough-surface-footage-084437984_prevstill.jpeg');
+    text-align: center;
+    color: black;
+    font-family: "Libre Baskerville", serif;
+}
+
+p {
+    color: black;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: "Tangerine", serif;
+    text-shadow: 4px 4px 4px #aaa;
+    text-align: left;
+}
+
+h2 {
+    text-align: left;
+}
+
+th {
+    text-align: right;
+}
+
+a {
+    padding: 10px;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    padding: 10px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+.timetable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
