@@ -1,4 +1,4 @@
-Konflikt (ladina keelest conflictus) on huvide, vajaduste või väärtushinnangute kokkupõrge.
+Konflikt on huvide, vajaduste või väärtushinnangute kokkupõrge.
 
 Konflikt võib olla:
 
